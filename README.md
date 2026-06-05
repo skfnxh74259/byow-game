@@ -1,11 +1,22 @@
-# Build Your Own World Design Document
+# Build Your Own World
 
-**Partner 1:**
+A procedurally generated tile-based exploration game developed in Java.
 
-**Partner 2:**
+## Features
 
-## Classes and Data Structures
+- Randomized world generation
+- Player movement and navigation
+- Save and load functionality
+- Tile-based rendering system
+- Object-oriented architecture
 
-## Algorithms
+## Technologies
 
-## Persistence
+- Java
+- Object-Oriented Programming
+- Algorithms
+- Procedural Generation
+
+## Overview
+
+This project generates unique worlds from user-provided seeds and allows players to explore and save game progress.
