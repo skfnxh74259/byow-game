@@ -1,2 +1,11 @@
-# byow-game
-Developed a procedurally generated tile-based exploration game in Java featuring randomized world generation, player navigation, and save/load functionality using object-oriented design principles.
+# Build Your Own World Design Document
+
+**Partner 1:**
+
+**Partner 2:**
+
+## Classes and Data Structures
+
+## Algorithms
+
+## Persistence
